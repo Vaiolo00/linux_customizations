@@ -1,0 +1,1 @@
+for f in /path/to/folder/*; do source $f; done
